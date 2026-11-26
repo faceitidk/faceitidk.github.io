@@ -1,8 +1,8 @@
 {
-  "name": "CrosbyXII's Cydia Repository",
-  "label": "CrosbyXII",
-  "author": "CrosbyXII",
-  "description": "Tweaks by CrosbyXII. One Cydia source for new tweaks and updates.",
-  "base_url": "https://crosbyxiii.github.io/",
-  "github_url": "https://github.com/CrosbyXIII/CrosbyXIII.github.io"
+  "name": "FaceItIdk Repo",
+  "label": "FaceItIdk",
+  "author": "FaceItIdk",
+  "description": "Tweaks and apps for legacy iOS.",
+  "base_url": "https://faceitidk.github.io/",
+  "github_url": "https://github.com/faceitidk/faceitidk.github.io"
 }
